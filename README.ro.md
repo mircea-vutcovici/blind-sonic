@@ -1,3 +1,4 @@
+[English](https://github.com/mircea-vutcovici/sonar-wand) [română](https://github.com/mircea-vutcovici/sonar-wand/blob/master/README.ro.md)
 # sonar-wand
 Dispositiv pentru orientare destinat persoanelor care nu vad.
 
