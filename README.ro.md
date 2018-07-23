@@ -2,6 +2,8 @@
 # BlindSonic
 Dispositiv pentru orientare destinat persoanelor care nu vad.
 
+![fotografie a BlindSonic](P1090318.JPG)
+
 ## Cronologie
 Acest proiect a fost facut de Cosmin Vatra. El a conceput si facut primele prototipuri.
 Cu permisiunea lui am publicat aceste detalii.
