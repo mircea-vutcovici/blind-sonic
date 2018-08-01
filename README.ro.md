@@ -12,4 +12,5 @@ Cu permisiunea lui am publicat aceste detalii.
 [English](https://github.com/mircea-vutcovici/blind-sonic/blob/master/BOM.md), [română](https://github.com/mircea-vutcovici/blind-sonic/blob/master/BOM.ro.md)
 
 ## Legaturi catre proiecte similare
-[How to Make a Smart Cane for the Visually Impaired With Arduino](https://maker.pro/projects/arduino/arduino-smart-cane-for-the-blind)
+* [How to Make a Smart Cane for the Visually Impaired With Arduino](https://maker.pro/projects/arduino/arduino-smart-cane-for-the-blind)
+* [WeWALK Smart Cane](https://www.indiegogo.com/projects/revolutionary-smart-cane-for-the-visually-impaired#/)
