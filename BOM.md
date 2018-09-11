@@ -1,6 +1,6 @@
 # Bill of materials
 
-1. [Arduino Nano ATmega328P microcontroller with CH340G USB-serial interface](https://www.ebay.com/itm/MINI-USB-Nano-V3-0-ATmega328P-CH340G-5V-16M-Micro-controller-board-Arduino-M47/291548871778?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2057872.m2749.l2649) - MINI USB Nano V3.0 ATmega328P CH340G 5V 16M Micro-controller board Arduino M47
+1. [Arduino Nano ATmega328P microcontroller with CH340G USB-serial interface](https://www.ebay.com/itm/MINI-USB-Nano-V3-0-ATmega328P-CH340G-5V-16M-Micro-controller-board-Arduino-M47/291548871778?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2057872.m2749.l2649) - MINI USB Nano V3.0 [ATmega328P](images/ATmega328P.jpg) [CH340G](images/CH340G.jpg) 5V 16M Micro-controller board Arduino M47
 
 2. [Ultrasonic Sensor HC-SR04](https://www.ebay.com/itm/1-2-5-10PCS-Ultrasonic-Module-HC-SR04-Distance-Transducer-Sensor-for-Arduino/112546863866?ssPageName=STRK%3AMEBIDX%3AIT&var=412941347380&_trksid=p2057872.m2749.l2649)
 
