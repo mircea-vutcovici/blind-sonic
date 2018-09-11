@@ -2,7 +2,7 @@
 # BlindSonic
 Device used for blind people to find objects using an ultrasonic distance sensor
 
-![BlindSonic picture](P1090318.JPG)
+![BlindSonic picture](images/P1090318.JPG)
 
 ## History
 This project is created by Cosmin Vatra. He did all the work of testing and creating the first prototypes.
