@@ -4,6 +4,8 @@ Dispositiv pentru orientare destinat persoanelor care nu vad.
 
 ![fotografie a BlindSonic](images/P1090318.JPG)
 
+[TV NEWS BUZAU - INTERVIURI ALTFEL - Aparat cu ultrasunete pentru nevazatori - 06 12 2017](https://youtu.be/FoDEJMZK1bs)
+
 ## Cronologie
 Acest proiect a fost facut de Cosmin Vatra. El a conceput si facut primele prototipuri.
 Cu permisiunea lui am publicat aceste detalii.
