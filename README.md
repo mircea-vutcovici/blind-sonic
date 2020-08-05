@@ -4,6 +4,8 @@ Device used for blind people to find objects using an ultrasonic distance sensor
 
 ![BlindSonic picture](images/P1090318.JPG)
 
+[TV NEWS BUZAU - Ultrasonic device for visually impaired - 06 12 2017 (Romanian)](https://youtu.be/FoDEJMZK1bs)
+
 ## History
 This project is created by Cosmin Vatra. He did all the work of testing and creating the first prototypes.
 Here, with his permission, I am just publising it.
